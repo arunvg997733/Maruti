@@ -1,0 +1,526 @@
+*{
+    margin: 0; 
+}
+
+header{
+    width: 100%;
+    height: 100px;
+}
+
+.head1{
+    width: 25%;
+    height: 80px;
+    margin: 0;
+    background-color: #fff;
+}
+
+.head2{
+    margin-top: 0px;
+    width: 50%;
+    height: 80px;
+    margin: 0px;
+    margin-top: -80px;
+    margin-left: 25%;
+    background-color:#fff;
+}
+
+.head3{
+    width: 20%;
+    height: 80px;
+    margin: 0;
+    margin-top: -90px;
+    margin-left: 75%;
+    background-color:#fff;
+}
+
+.head4{
+    width: 5%;
+    height: 80px;
+    margin: 0;
+    margin-top: -80px;
+    margin-left: 95%;
+    background-color:#fff;
+}
+
+.headerlogo{ 
+    padding-top: 33px;
+    height: 2.1rem;
+}
+
+.image1{
+    
+    width: 100%;
+    
+    
+}
+
+.image2{
+    margin-top: 0;
+    width: 100%;
+    margin-top: -4px;
+    height: 675px;
+    
+    
+}
+
+.loginglogo{
+
+    padding-top: 15px;
+    padding-left: 0px;
+}
+
+.contactinfo{
+    
+    margin-top: 35px;
+    margin-left: 55px;
+    padding-left: 15px;
+    background-color: #fff;
+    height: 47px;
+    width: 55%;
+    border: 1px solid;
+    border-color: rgb(208, 203, 203);
+}
+
+.mob{
+    padding-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+    color: #585858;
+}
+
+.gmail{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+    color: #585858;
+}
+
+.table1{
+
+    width: 700px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration-thickness: 10px;
+    padding-top: 40px;
+}
+
+.table1 th{
+    font-weight: 50;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.image3{
+    margin-top: 0;
+    width: 100%;
+    margin-top: -4px;
+    height: 700px;
+    
+    
+}
+
+.arena{
+
+    margin-top: 80px;
+    position: absolute;
+    left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: translateX(-50%);
+    font-size: 28px;
+    height: 1rem;
+    font-weight:100;
+    color: #fff
+}
+
+.indroduction{
+
+    margin-top: 130px;
+    position: absolute;
+    left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: translateX(-50%);
+    font-size: 90px;
+    height: 1rem;
+    font-weight:100;
+    color: #fff
+}
+
+.video1{
+
+    margin-top: 250px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.arena1{
+
+    margin-top: 55px;
+    position: absolute;
+    left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: translateX(-50%);
+    font-size: 25px;
+    height: 1rem;
+    font-weight:100;
+    color:black;
+}
+
+.philosophy{
+
+    margin-top: 100px;
+    position: absolute;
+    left: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: translateX(-50%);
+    font-size: 65px;
+    height: 1rem;
+    font-weight:100;
+    color: black
+}
+
+
+.image4{
+    margin-top: 0;
+    width: 100%;
+    margin-top: -4px;
+    
+    
+}
+
+
+.table2{
+    position: absolute;
+    width: 700px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-top: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.table2 th{
+    font-weight: 100;
+}
+
+.partition1{
+
+    width: 60%;
+    height: 700px;
+    margin-left: 40%;
+    position: absolute;
+    
+}
+
+.list1{
+
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-top: 120px;
+    width: 65%;
+
+}
+
+.whatsnew{
+    margin-top: 7px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.navigation{
+    margin-top: 7px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.partition2{
+
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    margin-top: -4px;
+   
+}
+
+.partition3{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+    margin-top: -4px;  
+}
+
+.partition3 button{
+    background-color: black;
+    color:white;
+    height: 40px;
+    align-content: center;
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 3300px;
+    cursor: pointer;
+}
+
+.our{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-weight: normal;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 40px;
+}
+
+.range{
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-weight: normal;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 80px;
+}
+
+.partition4{
+    width: 100%;
+    height: 500px;
+    background-color:#333;
+    margin-top: -4px; 
+}
+
+
+.partition5{
+    width: 55%;
+    height: 58px;
+    margin-top: 0px;
+    background-color: black;
+    display: flex;
+    margin-left: 0px;
+    color: #fff; 
+}
+
+.partition5 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.partition6{
+    width: 45%;
+    height: 58px;
+    display: flex;
+    color: #fff;
+    background-color: black;
+    margin-top: -58px;
+    margin-left: 55%;
+}
+
+.partition6 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.para1{
+    padding-left: 10px;
+    padding-top: 400px;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+
+.para2{
+    padding-left: 10px;
+    padding-top: 15px;
+    font-size:9.6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.dlist1{ 
+    padding-top: 60px;
+    padding-left: 0%;
+    list-style-type: none;
+    font-size:13px;
+    width: 33%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.dlist1 li{
+padding: 5px;
+    
+}
+
+.dlist2{ 
+    top: 60px;
+    position: absolute;
+    padding-left: 33%;
+    list-style-type: none;
+    font-size:13px;
+    width: 33%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.dlist2 li{
+padding: 5px;
+    
+}
+
+
+.dlist3{ 
+    top: 60px;
+    position: absolute;
+    padding-left: 60%;
+    list-style-type: none;
+    font-size:13px;
+    width: 33%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.dlist3 li{
+padding: 5px;
+    
+}
+
+.main{
+
+    width: 45%;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+.part1{
+    width: 15%;
+    height: 500px;
+    padding-left: 0%;
+    background-color: aqua;
+}
+
+.image5{
+width: 100%;
+height: 100%;
+
+}
+
+.reachus{
+width: 25%;
+height: 300px;
+position: absolute;
+left: 50px;
+padding-top: 50px;
+
+}
+
+.reachus h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.reachus h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.reachus h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.button1{
+    padding-top: 180px;
+    position: absolute;
+    left: 50px;
+}
+.button1 button{
+height: 30px;
+font-weight: 100;
+font-size: 12px;
+width: 170px;
+cursor: pointer;
+
+}
+
+
+.download{
+    position: absolute;
+    right: 0;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-end;
+
+
+}
+
+.download h4{
+    padding-top: 100px;
+    
+}
+
+
+.playstoreimage{
+    padding-top: 220px;
+    position: absolute;
+    display: flex;
+    right: 50px;
+    justify-content: space-between;
+
+
+
+}
+.playstoreimage img{
+    padding-left: 15px;
+  
+}
+
+.facebook{
+    padding-top: 140px;
+    position: absolute;
+    display: flex;
+    right: 50px;
+    justify-content: space-between;
+
+ 
+}
+.facebook img{
+    padding-left: 10px;
+
+}
+.partition3 h1{
+    font-family:sans-serif;
+    font-size: 26px;
+    font-weight: 900;
+    font-style: italic;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-top: 10px;
+
+}
+
+
+
+
